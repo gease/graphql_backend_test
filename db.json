@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jill",
+      "age": 27,
+      "departmentId": "shrsc"
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "age": 35,
+      "departmentId": "shrsc"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "age": 50,
+      "departmentId": "iemfla"
+    }
+  ],
+  "departments": [
+    {
+      "id": "shrsc",
+      "name": "Shitty horsheshoe consortium"
+    },
+    {
+      "id": "iemfla",
+      "name": "International exhaustive module for laws acknowledgement"
+    }
+  ]
+}
